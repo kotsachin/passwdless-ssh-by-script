@@ -5,7 +5,7 @@ Note that this script uses a program to automate interactions with programs that
 --prerequisites
 
 Install expect too as below:
-# sudo yum install expect
+```# sudo yum install expect```
 
 
 Supports on Linux platforms only with expect tool.
